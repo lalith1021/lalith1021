@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalith1021
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning B.Tech Electronics and Communication Engg
+- 🌱 Graduate in B.Tech Electronics and Communication Engg
 - 💞️ I’m looking to collaborate on software companies
 - 📫 How to reach me ...
 
